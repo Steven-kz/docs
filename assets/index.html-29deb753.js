@@ -1,0 +1,1 @@
+import{_ as t,p as c,q as n,R as e}from"./framework-5866ffd3.js";const s={},o=e("div",{class:"custom-container danger"},[e("p",{class:"custom-container-title"},"DANGER"),e("p",null,"带完善")],-1),a=[o];function _(r,l){return c(),n("div",null,a)}const d=t(s,[["render",_],["__file","index.html.vue"]]);export{d as default};
